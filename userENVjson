@@ -1,0 +1,57 @@
+{
+	"id": "90263644-25ff-4367-b2fd-718605c538fc",
+	"name": "statging/Users",
+	"values": [
+		{
+			"key": "baseUrl",
+			"value": "https://fakestoreapi.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "emialUserID#9",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "IDUserID#9",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "sortDESC",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "sortASEC",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "limit",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "userDelete",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2024-01-26T14:30:19.179Z",
+	"_postman_exported_using": "Postman/10.22.6"
+}
